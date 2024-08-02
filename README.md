@@ -1,7 +1,7 @@
 <a href="https://github.com/spy404" target="_blank" align="center">
   <img src="./github-header-image.png" border="0" alt="spy404" />
 </a>
-<center><img src="https://visitcount.itsvg.in/api?id=taha-daneshmand&label=Profile%20Views&color=0&icon=1&pretty=true" /></center>
+<center><div><img src="https://komarev.com/ghpvc/?username=taha-daneshmand&color=blueviolet"></div></center>
 <br />
 <br />
 <p align="center"> Hi, I'm <b> Taha Daneshmand <b>! Iranian <b> developer </b> and <b> Technology </b> lover. </p>
