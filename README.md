@@ -51,27 +51,6 @@ In my **Tech Podcast**, I discuss trending topics and interview industry experts
 
 ---
 
-## 🎙 Podcast
-
-🎙 **Taha Talks Tech**  
-In my podcast, I explore the latest trends in technology by discussing and debating with experts from various fields. From **AI** to **automation** and **network security**, we cover everything that's hot in tech today.
-
-You can listen to the podcast on: (Soon...)
-
-<p align="center">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://castbox.fm" target="_blank">
-    <img src="https://img.shields.io/badge/CastBox-orange?style=for-the-badge&logo=castbox&logoColor=white" alt="CastBox"/>
-  </a>
-  <a href="https://soundcloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
-  </a>
-</p>
-
----
-
 ## 🗣️ Inspirational Tech Quotes
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
