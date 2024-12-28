@@ -7,7 +7,6 @@
 ## 💻 About Me
 
 I'm a **Network & Security Engineer** with a passion for **Python development**, **building secure systems**, and **API development**. I'm also an avid **Linux enthusiast** and enjoy automating processes using **AI**.  
-In my **Tech Podcast**, I discuss trending topics and interview industry experts to dive deep into emerging tech trends.
 
 ---
 
